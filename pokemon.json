@@ -958,7 +958,68 @@
 				"en": "Mega Pinsir"
 			},
 		],
-		"gigamax": [],
+		"gigamax": [
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/2/2e/Florizarre_%28Gigamax%29-EB.png/320px-Florizarre_%28Gigamax%29-EB.png",
+				"fr": "Florizarre Gigamax",
+				"en": "Gigantamax Venusaur"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/8/8b/Dracaufeu_%28Gigamax%29-EB.png/245px-Dracaufeu_%28Gigamax%29-EB.png",
+				"fr": "Dracaufeu Gigamax",
+				"en": "Gigantamax Charizard"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/e/e3/Tortank_%28Gigamax%29-EB.png/256px-Tortank_%28Gigamax%29-EB.png",
+				"fr": "Tortank Gigamax",
+				"en": "Gigantamax Blastoise"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/1/18/Papilusion_%28Gigamax%29-EB.png/274px-Papilusion_%28Gigamax%29-EB.png",
+				"fr": "Papilusion Gigamax",
+				"en": "Gigantamax Butterfree"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/7/73/Pikachu_%28Gigamax%29-EB.png/171px-Pikachu_%28Gigamax%29-EB.png"
+				"fr": "Pikachu Gigamax",
+				"en": "Gigantamax Pikachu"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/f/fd/Miaouss_%28Gigamax%29-EB.png/138px-Miaouss_%28Gigamax%29-EB.png"
+				"fr": "Miaouss Gigamax",
+				"en": "Gigantamax Meowth"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/8/8f/Mackogneur_%28Gigamax%29-EB.png"
+				"fr": "Mackogneur Gigamax",
+				"en": "Gigantamax Machamp"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/2/2b/Ectoplasma_%28Gigamax%29-EB.png"
+				"fr": "Ectoplasma Gigamax",
+				"en": "Gigantamax Gengar"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/1/1f/Krabboss_%28Gigamax%29-EB.png"
+				"fr": "Krabboss Gigamax",
+				"en": "Gigantamax Kingler"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/c/c7/Lokhlass_%28Gigamax%29-EB.png"
+				"fr": "Lokhlass Gigamax",
+				"en": "Gigantamax Lapras"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/3/34/%C3%89voli_%28Gigamax%29-EB.png/202px-%C3%89voli_%28Gigamax%29-EB.png"
+				"fr": "Évoli Gigamax",
+				"en": "Gigantamax Eevee"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/3/3c/Ronflex_%28Gigamax%29-EB.png/289px-Ronflex_%28Gigamax%29-EB.png"
+				"fr": "Ronflex Gigamax",
+				"en": "Gigantamax Snorlax"
+			},
+		],
 		"shiny": []
 	}
 }
