@@ -1363,6 +1363,21 @@
 				"en": "Moltres"
 			},
 			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/2/27/Artikodin_de_Galar-EB.png/219px-Artikodin_de_Galar-EB.png",
+				"fr": "Artikodin de Galar",
+				"en": "Galarian Articuno"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/8/83/%C3%89lecthor_de_Galar-EB.png/250px-%C3%89lecthor_de_Galar-EB.png",
+				"fr": "Électhor de Galar",
+				"en": "Galarian Zapdos"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/3/3d/Sulfura_de_Galar-EB.png/266px-Sulfura_de_Galar-EB.png",
+				"fr": "Sulfura de Galar",
+				"en": "Galarian Moltres"
+			},
+			{
 				"artwork": "https://i.imgur.com/wSbED79.png",
 				"fr": "Mewtwo",
 				"en": "Mewtwo"
