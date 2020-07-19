@@ -1131,6 +1131,76 @@
 				"fr": "Phanpy",
 				"en": "Phanpy"
 			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/e/e3/Donphan-RFVF.png/320px-Donphan-RFVF.png",
+				"fr": "Donphan",
+				"en": "Donphan"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/b/b6/Porygon2-HGSS.png/246px-Porygon2-HGSS.png",
+				"fr": "Porygon2",
+				"en": "Porygon2"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/1/1d/Cerfrousse-HGSS.png/183px-Cerfrousse-HGSS.png",
+				"fr": "Cerfrousse",
+				"en": "Stantler"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/f/f0/Queulorior-HGSS.png/205px-Queulorior-HGSS.png",
+				"fr": "Queulorior",
+				"en": "Smeargle"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/3/38/Debugant-HGSS.png/239px-Debugant-HGSS.png",
+				"fr": "Debugant",
+				"en": "Tyrogue"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/4/4c/Kapoera-HGSS.png/247px-Kapoera-HGSS.png",
+				"fr": "Kapoera",
+				"en": "Hitmontop"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/b/b2/Lippouti-HGSS.png/147px-Lippouti-HGSS.png",
+				"fr": "Lippouti",
+				"en": "Smoochum"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/3/3e/%C3%89lekid-RFVF.png/320px-%C3%89lekid-RFVF.png",
+				"fr": "Élekid",
+				"en": "Elekid"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/3/33/Magby-HGSS.png/170px-Magby-HGSS.png",
+				"fr": "Magby",
+				"en": "Magby"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/2/2b/%C3%89cr%C3%A9meuh-HGSS.png/204px-%C3%89cr%C3%A9meuh-HGSS.png",
+				"fr": "Écrémeuh",
+				"en": "Miltank"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/d/d0/Leuphorie-HGSS.png/228px-Leuphorie-HGSS.png",
+				"fr": "Leuphorie",
+				"en": "Blissey"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/9/92/Embrylex-HGSS.png/138px-Embrylex-HGSS.png",
+				"fr": "Embrylex",
+				"en": "Larvitar"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/e/ef/Ymphect-HGSS.png/189px-Ymphect-HGSS.png",
+				"fr": "Ymphect",
+				"en": "Pupitar"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/e/e2/Tyranocif-HGSS.png/220px-Tyranocif-HGSS.png",
+				"fr": "Tyranocif",
+				"en": "Tyranitar"
+			},
 		],
 		"alolan": [
 			{
@@ -1297,13 +1367,43 @@
 				"fr": "Mewtwo",
 				"en": "Mewtwo"
 			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/7/7b/Raikou-HGSS.png/295px-Raikou-HGSS.png",
+				"fr": "Raikou",
+				"en": "Raikou"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/9/90/Entei-HGSS.png/221px-Entei-HGSS.png",
+				"fr": "Entei",
+				"en": "Entei"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/9/9a/Suicune-HGSS.png/250px-Suicune-HGSS.png",
+				"fr": "Suicune",
+				"en": "Suicune"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/c/c0/Lugia-HGSS.png/309px-Lugia-HGSS.png",
+				"fr": "Lugia",
+				"en": "Lugia"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/4/40/Ho-Oh-HGSS.png/216px-Ho-Oh-HGSS.png",
+				"fr": "Ho-Oh",
+				"en": "Ho-Oh"
+			},
 		],
 		"fabuleux": [
 			{
 				"artwork": "https://i.imgur.com/TGKJgBm.png",
 				"fr": "Mew",
 				"en": "Mew"
-			}
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/0/0a/Celebi-HGSS.png/276px-Celebi-HGSS.png",
+				"fr": "Celebi",
+				"en": "Celebi"
+			},
 		],
 		"uc": [],
 		"mega": [
@@ -1406,6 +1506,11 @@
 				"artwork": "https://www.pokepedia.fr/images/8/85/M%C3%A9ga-D%C3%A9molosse-XY.png",
 				"fr": "Méga Démolosse",
 				"en": "Mega Houndoom"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/c/c7/M%C3%A9ga-Tyranocif-XY.png",
+				"fr": "Méga Tyranocif",
+				"en": "Mega Tyranitar"
 			},
 		],
 		"gigamax": [
