@@ -957,6 +957,16 @@
 				"fr": "Méga Scarabrute",
 				"en": "Mega Pinsir"
 			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/5/5a/M%C3%A9ga-Mewtwo_X-XY.png/144px-M%C3%A9ga-Mewtwo_X-XY.png",
+				"fr": "Méga Mewtwo X",
+				"en": "Mega Mewtwo X"
+			},
+			{
+				"artwork": "https://www.pokepedia.fr/images/thumb/3/3e/M%C3%A9ga-Mewtwo_Y-XY.png/145px-M%C3%A9ga-Mewtwo_Y-XY.png",
+				"fr": "Méga Mewtwo Y",
+				"en": "Mega Mewtwo Y"
+			},
 		],
 		"gigamax": [
 			{
