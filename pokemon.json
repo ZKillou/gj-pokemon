@@ -2,402 +2,402 @@
    "pokemon":{
       "normal":[
          {
-            "artwork":"https://www.pokepedia.fr/images/e/ef/Bulbizarre-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/bulbasaur.gif",
             "fr":"Bulbizarre",
             "en":"Bulbasaur"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/4/44/Herbizarre-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/ivysaur.gif",
             "fr":"Herbizarre",
             "en":"Ivysaur"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/4/42/Florizarre-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/venusaur.gif",
             "fr":"Florizarre",
             "en":"Venusaur"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/8/89/Salam%C3%A8che-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/charmander.gif",
             "fr":"Salamèche",
             "en":"Charmander"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/6/64/Reptincel-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/charmeleon.gif",
             "fr":"Reptincel",
             "en":"Charmeleon"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/1/17/Dracaufeu-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/charizard.gif",
             "fr":"Dracaufeu",
             "en":"Charizard"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/c/cc/Carapuce-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/squirtle.gif",
             "fr":"Carapuce",
             "en":"Squirtle"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/2/2a/Carabaffe-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/wartortle.gif",
             "fr":"Carabaffe",
             "en":"Wartortle"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/2/24/Tortank-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/blastoise.gif",
             "fr":"Tortank",
             "en":"Blastoise"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/c/c7/Chenipan-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/caterpie.gif",
             "fr":"Chenipan",
             "en":"Caterpie"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/6/6c/Chrysacier-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/metapod.gif",
             "fr":"Chrysacier",
             "en":"Metapod"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/8/83/Papilusion-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/butterfree.gif",
             "fr":"Papilusion",
             "en":"Butterfree"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/9/9b/Aspicot-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/weedle.gif",
             "fr":"Aspicot",
             "en":"Weedle"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/b/b6/Coconfort-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/kakuna.gif",
             "fr":"Coconfort",
             "en":"Kakuna"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/e/ee/Dardargnan-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/beedrill.gif",
             "fr":"Dardargnan",
             "en":"Beedrill"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/9/94/Roucool-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/pidgey.gif",
             "fr":"Roucool",
             "en":"Pidgey"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/d/dc/Roucoups-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/pidgeotto.gif",
             "fr":"Roucoups",
             "en":"Pidgeotto"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/d/d8/Roucarnage-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/pigeot.gif",
             "fr":"Roucarnage",
             "en":"Pidgeot"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/9/9e/Rattata-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/rattata.gif",
             "fr":"Rattata",
             "en":"Rattata"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/9/98/Rattatac-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/raticate.gif",
             "fr":"Rattatac",
             "en":"Raticate"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/7/7d/Piafabec-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/spearow.gif",
             "fr":"Piafabec",
             "en":"Spearow"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/f/f2/Rapasdepic-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/fearow.gif",
             "fr":"Rapasdepic",
             "en":"Fearow"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/5/56/Abo-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/ekans.gif",
             "fr":"Abo",
             "en":"Ekans"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/7/7f/Arbok-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/arbok.gif",
             "fr":"Arbok",
             "en":"Arbok"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/e/e7/Pikachu-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/pikachu.gif",
             "fr":"Pikachu",
             "en":"Pikachu"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/7/7d/Raichu-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/raichu.gif",
             "fr":"Raichu",
             "en":"Raichu"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/6/66/Sabelette-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/sandshrew.gif",
             "fr":"Sabelette",
             "en":"Sandshrew"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/a/a1/Sablaireau-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/sandslash.gif",
             "fr":"Sablaireau",
             "en":"Sandslash"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/c/ca/Nidoran%E2%99%80-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/nidoranf.gif",
             "fr":"Nidoran♀",
             "en":"Nidoran♀"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/b/b5/Nidorina-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/nidorina.gif",
             "fr":"Nidorina",
             "en":"Nidorina"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/7/76/Nidoqueen-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/nidoqueen.gif",
             "fr":"Nidoqueen",
             "en":"Nidoqueen"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/8/8e/Nidoran%E2%99%82-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/nidoranm.gif",
             "fr":"Nidoran♂",
             "en":"Nidoran♂"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/1/1c/Nidorino-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/nidorino.gif",
             "fr":"Nidorino",
             "en":"Nidorino"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/5/5f/Nidoking-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/nidoking.gif",
             "fr":"Nidoking",
             "en":"Nidoking"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/4/4d/M%C3%A9lof%C3%A9e-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/clefairy.gif",
             "fr":"Mélofée",
             "en":"Clefairy"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/3/3f/M%C3%A9lodelfe-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/clefable.gif",
             "fr":"Mélodelfe",
             "en":"Clefable"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/f/f6/Goupix-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/vulpix.gif",
             "fr":"Goupix",
             "en":"Vulpix"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/0/0c/Feunard-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/ninetales.gif",
             "fr":"Feunard",
             "en":"Ninetales"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/c/cd/Rondoudou-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/jigglypuff.gif",
             "fr":"Rondoudou",
             "en":"Jigglypuff"
          },
          {
-            "artwork":"https://www.pokepedia.fr/images/7/7e/Grodoudou-RFVF.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/wigglypuff.gif",
             "fr":"Grodoudou",
             "en":"Wigglytuff"
          },
          {
-            "artwork":"https://i.imgur.com/2SFHYiE.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/zubat.gif",
             "fr":"Nosferapti",
             "en":"Zubat"
          },
          {
-            "artwork":"https://i.imgur.com/MqmUTQ0.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/golbat.gif",
             "fr":"Nosferalto",
             "en":"Golbat"
          },
          {
-            "artwork":"https://i.imgur.com/AplkaXl.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/oddish.gif",
             "fr":"Mystherbe",
             "en":"Oddish"
          },
          {
-            "artwork":"https://i.imgur.com/VKVReaH.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/gloom.gif",
             "fr":"Ortide",
             "en":"Gloom"
          },
          {
-            "artwork":"https://i.imgur.com/IKKpWre.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/vileplume.gif",
             "fr":"Rafflesia",
             "en":"Vileplume"
          },
          {
-            "artwork":"https://i.imgur.com/acABxwZ.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/paras.gif",
             "fr":"Paras",
             "en":"Paras"
          },
          {
-            "artwork":"https://i.imgur.com/mLlHCs3.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/parasect.gif",
             "fr":"Parasect",
             "en":"Parasect"
          },
          {
-            "artwork":"https://i.imgur.com/jAXbo2i.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/venonat.gif",
             "fr":"Mimitoss",
             "en":"Venonat"
          },
          {
-            "artwork":"https://i.imgur.com/YyJoPv5.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/venomoth.gif",
             "fr":"Aéromite",
             "en":"Venomoth"
          },
          {
-            "artwork":"https://i.imgur.com/YkXkyQZ.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/digglet.gif",
             "fr":"Taupiqueur",
             "en":"Diglett"
          },
          {
-            "artwork":"https://i.imgur.com/hesvNkw.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/dugtrio.gif",
             "fr":"Triopikeur",
             "en":"Dugtrio"
          },
          {
-            "artwork":"https://i.imgur.com/pDNu91m.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/meowth.gif",
             "fr":"Miaouss",
             "en":"Meowth"
          },
          {
-            "artwork":"https://i.imgur.com/vdusrRM.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/persian.gif",
             "fr":"Persian",
             "en":"Persian"
          },
          {
-            "artwork":"https://i.imgur.com/YSrDCBO.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/psyduck.gif",
             "fr":"Psykokwak",
             "en":"Psyduck"
          },
          {
-            "artwork":"https://i.imgur.com/tLdNn2u.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/golduck.gif",
             "fr":"Akwakwak",
             "en":"Golduck"
          },
          {
-            "artwork":"https://i.imgur.com/BLKDfvs.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/mankey.gif",
             "fr":"Férosinge",
             "en":"Mankey"
          },
          {
-            "artwork":"https://i.imgur.com/ykdaaSB.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/primeape.gif",
             "fr":"Colossinge",
             "en":"Primeape"
          },
          {
-            "artwork":"https://i.imgur.com/SUqnSP4.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/growlithe.gif",
             "fr":"Caninos",
             "en":"Growlithe"
          },
          {
-            "artwork":"https://i.imgur.com/gamez3k.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/arcanine.gif",
             "fr":"Arcanin",
             "en":"Arcanine"
          },
          {
-            "artwork":"https://i.imgur.com/xRi3Uyi.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/poliwag.gif",
             "fr":"Ptitard",
             "en":"Poliwag"
          },
          {
-            "artwork":"https://i.imgur.com/Fwr2eYS.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/poliwhirl.gif",
             "fr":"Têtarte",
             "en":"Poliwhirl"
          },
          {
-            "artwork":"https://i.imgur.com/6Vua3sW.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/poliwrath.gif",
             "fr":"Tartard",
             "en":"Poliwrath"
          },
          {
-            "artwork":"https://i.imgur.com/aSS33g2.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/abra.gif",
             "fr":"Abra",
             "en":"Abra"
          },
          {
-            "artwork":"https://i.imgur.com/lhGm3IL.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/kadabra.gif",
             "fr":"Kadabra",
             "en":"Kadabra"
          },
          {
-            "artwork":"https://i.imgur.com/LNjhyC0.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/alakazam.gif",
             "fr":"Alakazam",
             "en":"Alakazam"
          },
          {
-            "artwork":"https://i.imgur.com/tsmOleX.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/machop.gif",
             "fr":"Machoc",
             "en":"Machop"
          },
          {
-            "artwork":"https://i.imgur.com/Q3htN1j.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/machoke.gif",
             "fr":"Machopeur",
             "en":"Machoke"
          },
          {
-            "artwork":"https://i.imgur.com/aoRVUOq.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/machamp.gif",
             "fr":"Mackogneur",
             "en":"Machamp"
          },
          {
-            "artwork":"https://i.imgur.com/np6YaVg.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/bellsprout.gif",
             "fr":"Chétiflor",
             "en":"Bellsprout"
          },
          {
-            "artwork":"https://i.imgur.com/daeSpQW.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/weepinball.gif",
             "fr":"Boustiflor",
             "en":"Weepinbell"
          },
          {
-            "artwork":"https://i.imgur.com/t7QPLUQ.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/victreebel.gif",
             "fr":"Empiflor",
             "en":"Victreebel"
          },
          {
-            "artwork":"https://i.imgur.com/kICpRY8.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/tentacool.gif",
             "fr":"Tentacool",
             "en":"Tentacool"
          },
          {
-            "artwork":"https://i.imgur.com/KKWNkHQ.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/tentacruel.gif",
             "fr":"Tentacruel",
             "en":"Tentacruel"
          },
          {
-            "artwork":"https://i.imgur.com/8nVHGSO.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/geodude.gif",
             "fr":"Racaillou",
             "en":"Geodude"
          },
          {
-            "artwork":"https://i.imgur.com/yt8WPIy.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/graveler.gif",
             "fr":"Gravalanch",
             "en":"Graveler"
          },
          {
-            "artwork":"https://i.imgur.com/6BC3hkD.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/golem.gif",
             "fr":"Grolem",
             "en":"Golem"
          },
          {
-            "artwork":"https://i.imgur.com/nOYryC3.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/ponyta.gif",
             "fr":"Ponyta",
             "en":"Ponyta"
          },
          {
-            "artwork":"https://i.imgur.com/3R8N1FX.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/rapidash.gif",
             "fr":"Galopa",
             "en":"Rapidash"
          },
          {
-            "artwork":"https://i.imgur.com/i290m6J.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/slowpoke.gif",
             "fr":"Ramoloss",
             "en":"Slowpoke"
          },
          {
-            "artwork":"https://i.imgur.com/LF5kDxm.png",
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/slowbro.gif",
             "fr":"Flagadoss",
             "en":"Slowbro"
          },
