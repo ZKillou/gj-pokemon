@@ -2,202 +2,202 @@
    "pokemon":{
       "normal":[
          {
-            "artwork":"https://i.imgur.com/xSpdWqw.png",
+            "artwork":"https://www.pokepedia.fr/images/e/ef/Bulbizarre-RFVF.png",
             "fr":"Bulbizarre",
             "en":"Bulbasaur"
          },
          {
-            "artwork":"https://i.imgur.com/Yjc2v1X.png",
+            "artwork":"https://www.pokepedia.fr/images/4/44/Herbizarre-RFVF.png",
             "fr":"Herbizarre",
             "en":"Ivysaur"
          },
          {
-            "artwork":"https://i.imgur.com/vRMaOmT.png",
+            "artwork":"https://www.pokepedia.fr/images/4/42/Florizarre-RFVF.png",
             "fr":"Florizarre",
             "en":"Venusaur"
          },
          {
-            "artwork":"https://i.imgur.com/yalozuD.png",
+            "artwork":"https://www.pokepedia.fr/images/8/89/Salam%C3%A8che-RFVF.png",
             "fr":"Salamèche",
             "en":"Charmander"
          },
          {
-            "artwork":"https://i.imgur.com/3ilJteX.png",
+            "artwork":"https://www.pokepedia.fr/images/6/64/Reptincel-RFVF.png",
             "fr":"Reptincel",
             "en":"Charmeleon"
          },
          {
-            "artwork":"https://i.imgur.com/9xrmMnK.png",
+            "artwork":"https://www.pokepedia.fr/images/1/17/Dracaufeu-RFVF.png",
             "fr":"Dracaufeu",
             "en":"Charizard"
          },
          {
-            "artwork":"https://i.imgur.com/QXuOwCI.png",
+            "artwork":"https://www.pokepedia.fr/images/c/cc/Carapuce-RFVF.png",
             "fr":"Carapuce",
             "en":"Squirtle"
          },
          {
-            "artwork":"https://i.imgur.com/jZgg2M8.png",
+            "artwork":"https://www.pokepedia.fr/images/2/2a/Carabaffe-RFVF.png",
             "fr":"Carabaffe",
             "en":"Wartortle"
          },
          {
-            "artwork":"https://i.imgur.com/Q4sZDZj.png",
+            "artwork":"https://www.pokepedia.fr/images/2/24/Tortank-RFVF.png",
             "fr":"Tortank",
             "en":"Blastoise"
          },
          {
-            "artwork":"https://i.imgur.com/hcTyTS5.png",
+            "artwork":"https://www.pokepedia.fr/images/c/c7/Chenipan-RFVF.png",
             "fr":"Chenipan",
             "en":"Caterpie"
          },
          {
-            "artwork":"https://i.imgur.com/5TBzoWM.png",
+            "artwork":"https://www.pokepedia.fr/images/6/6c/Chrysacier-RFVF.png",
             "fr":"Chrysacier",
             "en":"Metapod"
          },
          {
-            "artwork":"https://i.imgur.com/5TBzoWM.png",
+            "artwork":"https://www.pokepedia.fr/images/8/83/Papilusion-RFVF.png",
             "fr":"Papilusion",
             "en":"Butterfree"
          },
          {
-            "artwork":"https://i.imgur.com/J8b0JCj.png",
+            "artwork":"https://www.pokepedia.fr/images/9/9b/Aspicot-RFVF.png",
             "fr":"Aspicot",
             "en":"Weedle"
          },
          {
-            "artwork":"https://i.imgur.com/07SQW7w.png",
+            "artwork":"https://www.pokepedia.fr/images/b/b6/Coconfort-RFVF.png",
             "fr":"Coconfort",
             "en":"Kakuna"
          },
          {
-            "artwork":"https://i.imgur.com/Vr35M1V.png",
+            "artwork":"https://www.pokepedia.fr/images/e/ee/Dardargnan-RFVF.png",
             "fr":"Dardargnan",
             "en":"Beedrill"
          },
          {
-            "artwork":"https://i.imgur.com/1pGvpSE.png",
+            "artwork":"https://www.pokepedia.fr/images/9/94/Roucool-RFVF.png",
             "fr":"Roucool",
             "en":"Pidgey"
          },
          {
-            "artwork":"https://i.imgur.com/ySbPwLo.png",
+            "artwork":"https://www.pokepedia.fr/images/d/dc/Roucoups-RFVF.png",
             "fr":"Roucoups",
             "en":"Pidgeotto"
          },
          {
-            "artwork":"https://i.imgur.com/agWMQWg.png",
+            "artwork":"https://www.pokepedia.fr/images/d/d8/Roucarnage-RFVF.png",
             "fr":"Roucarnage",
             "en":"Pidgeot"
          },
          {
-            "artwork":"https://i.imgur.com/16oT20Z.png",
+            "artwork":"https://www.pokepedia.fr/images/9/9e/Rattata-RFVF.png",
             "fr":"Rattata",
             "en":"Rattata"
          },
          {
-            "artwork":"https://i.imgur.com/wENGVnD.png",
+            "artwork":"https://www.pokepedia.fr/images/9/98/Rattatac-RFVF.png",
             "fr":"Rattatac",
             "en":"Raticate"
          },
          {
-            "artwork":"https://i.imgur.com/0rQW3tK.png",
+            "artwork":"https://www.pokepedia.fr/images/7/7d/Piafabec-RFVF.png",
             "fr":"Piafabec",
             "en":"Spearow"
          },
          {
-            "artwork":"https://i.imgur.com/oo4X92Q.png",
+            "artwork":"https://www.pokepedia.fr/images/f/f2/Rapasdepic-RFVF.png",
             "fr":"Rapasdepic",
             "en":"Fearow"
          },
          {
-            "artwork":"https://i.imgur.com/b5O2KZo.png",
+            "artwork":"https://www.pokepedia.fr/images/5/56/Abo-RFVF.png",
             "fr":"Abo",
             "en":"Ekans"
          },
          {
-            "artwork":"https://i.imgur.com/eeZ27Pr.png",
+            "artwork":"https://www.pokepedia.fr/images/7/7f/Arbok-RFVF.png",
             "fr":"Arbok",
             "en":"Arbok"
          },
          {
-            "artwork":"https://i.imgur.com/kb5fPWL.png",
+            "artwork":"https://www.pokepedia.fr/images/e/e7/Pikachu-RFVF.png",
             "fr":"Pikachu",
             "en":"Pikachu"
          },
          {
-            "artwork":"https://i.imgur.com/cWmNm1Q.png",
+            "artwork":"https://www.pokepedia.fr/images/7/7d/Raichu-RFVF.png",
             "fr":"Raichu",
             "en":"Raichu"
          },
          {
-            "artwork":"https://i.imgur.com/0nEtSr4.png",
+            "artwork":"https://www.pokepedia.fr/images/6/66/Sabelette-RFVF.png",
             "fr":"Sabelette",
             "en":"Sandshrew"
          },
          {
-            "artwork":"https://i.imgur.com/uGjVBat.png",
+            "artwork":"https://www.pokepedia.fr/images/a/a1/Sablaireau-RFVF.png",
             "fr":"Sablaireau",
             "en":"Sandslash"
          },
          {
-            "artwork":"https://i.imgur.com/PzvyNLM.png",
+            "artwork":"https://www.pokepedia.fr/images/c/ca/Nidoran%E2%99%80-RFVF.png",
             "fr":"Nidoran♀",
             "en":"Nidoran♀"
          },
          {
-            "artwork":"https://i.imgur.com/PPTp87h.png",
+            "artwork":"https://www.pokepedia.fr/images/b/b5/Nidorina-RFVF.png",
             "fr":"Nidorina",
             "en":"Nidorina"
          },
          {
-            "artwork":"https://i.imgur.com/okxKXgi.png",
+            "artwork":"https://www.pokepedia.fr/images/7/76/Nidoqueen-RFVF.png",
             "fr":"Nidoqueen",
             "en":"Nidoqueen"
          },
          {
-            "artwork":"https://i.imgur.com/YAgOuk0.png",
+            "artwork":"https://www.pokepedia.fr/images/8/8e/Nidoran%E2%99%82-RFVF.png",
             "fr":"Nidoran♂",
             "en":"Nidoran♂"
          },
          {
-            "artwork":"https://i.imgur.com/C4i4Eln.png",
+            "artwork":"https://www.pokepedia.fr/images/1/1c/Nidorino-RFVF.png",
             "fr":"Nidorino",
             "en":"Nidorino"
          },
          {
-            "artwork":"https://i.imgur.com/8H7M1yT.png",
+            "artwork":"https://www.pokepedia.fr/images/5/5f/Nidoking-RFVF.png",
             "fr":"Nidoking",
             "en":"Nidoking"
          },
          {
-            "artwork":"https://i.imgur.com/nJzz7RL.png",
+            "artwork":"https://www.pokepedia.fr/images/4/4d/M%C3%A9lof%C3%A9e-RFVF.png",
             "fr":"Mélofée",
             "en":"Clefairy"
          },
          {
-            "artwork":"https://i.imgur.com/am68vg6.png",
+            "artwork":"https://www.pokepedia.fr/images/3/3f/M%C3%A9lodelfe-RFVF.png",
             "fr":"Mélodelfe",
             "en":"Clefable"
          },
          {
-            "artwork":"https://i.imgur.com/YHpUkKG.png",
+            "artwork":"https://www.pokepedia.fr/images/f/f6/Goupix-RFVF.png",
             "fr":"Goupix",
             "en":"Vulpix"
          },
          {
-            "artwork":"https://i.imgur.com/uKkaLbA.png",
+            "artwork":"https://www.pokepedia.fr/images/0/0c/Feunard-RFVF.png",
             "fr":"Feunard",
             "en":"Ninetales"
          },
          {
-            "artwork":"https://i.imgur.com/zR7MaJ4.png",
+            "artwork":"https://www.pokepedia.fr/images/c/cd/Rondoudou-RFVF.png",
             "fr":"Rondoudou",
             "en":"Jigglypuff"
          },
          {
-            "artwork":"https://i.imgur.com/78Afroa.png",
+            "artwork":"https://www.pokepedia.fr/images/7/7e/Grodoudou-RFVF.png",
             "fr":"Grodoudou",
             "en":"Wigglytuff"
          },
