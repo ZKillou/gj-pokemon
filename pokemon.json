@@ -1837,62 +1837,74 @@
          {
             "artwork":"https://play.pokemonshowdown.com/sprites/ani/venusaur-gmax.gif",
             "fr":"Florizarre Gigamax",
-            "en":"Gigantamax Venusaur"
+            "en":"Gigantamax Venusaur",
+            "api":"venusaur-gmax"
          },
          {
             "artwork":"https://play.pokemonshowdown.com/sprites/ani/charizard-gmax.gif",
             "fr":"Dracaufeu Gigamax",
-            "en":"Gigantamax Charizard"
+            "en":"Gigantamax Charizard",
+            "api":"charizard-gmax"
          },
          {
             "artwork":"https://play.pokemonshowdown.com/sprites/ani/blastoise-gmax.gif",
             "fr":"Tortank Gigamax",
-            "en":"Gigantamax Blastoise"
+            "en":"Gigantamax Blastoise",
+            "api":"blastoise-gmax"
          },
          {
             "artwork":"https://play.pokemonshowdown.com/sprites/ani/butterfree-gmax.gif",
             "fr":"Papilusion Gigamax",
-            "en":"Gigantamax Butterfree"
+            "en":"Gigantamax Butterfree",
+            "api":"butterfree-gmax"
          },
          {
             "artwork":"https://play.pokemonshowdown.com/sprites/ani/pikachu-gmax.gif",
             "fr":"Pikachu Gigamax",
-            "en":"Gigantamax Pikachu"
+            "en":"Gigantamax Pikachu",
+            "api":"pikachu-gmax"
          },
          {
             "artwork":"https://play.pokemonshowdown.com/sprites/ani/meowth-gmax.gif",
             "fr":"Miaouss Gigamax",
-            "en":"Gigantamax Meowth"
+            "en":"Gigantamax Meowth",
+            "api":"meowth-gmax"
          },
          {
             "artwork":"https://play.pokemonshowdown.com/sprites/ani/machamp-gmax.gif",
             "fr":"Mackogneur Gigamax",
-            "en":"Gigantamax Machamp"
+            "en":"Gigantamax Machamp",
+            "api":"machamp-gmax"
          },
          {
             "artwork":"https://play.pokemonshowdown.com/sprites/ani/gengar-gmax.gif",
             "fr":"Ectoplasma Gigamax",
-            "en":"Gigantamax Gengar"
+            "en":"Gigantamax Gengar",
+            "api":"gengar-gmax"
          },
          {
             "artwork":"https://play.pokemonshowdown.com/sprites/ani/kingler-gmax.gif",
             "fr":"Krabboss Gigamax",
-            "en":"Gigantamax Kingler"
+            "en":"Gigantamax Kingler",
+            "api":"kingler-gmax"
          },
          {
             "artwork":"https://play.pokemonshowdown.com/sprites/ani/lapras-gmax.gif",
             "fr":"Lokhlass Gigamax",
-            "en":"Gigantamax Lapras"
+            "en":"Gigantamax Lapras",
+            "api":"lapras-gmax"
          },
          {
             "artwork":"https://play.pokemonshowdown.com/sprites/ani/eevee-gmax.gif",
             "fr":"Évoli Gigamax",
-            "en":"Gigantamax Eevee"
+            "en":"Gigantamax Eevee",
+            "api":"eevee-gmax"
          },
          {
             "artwork":"https://play.pokemonshowdown.com/sprites/ani/snorlax-gmax.gif",
             "fr":"Ronflex Gigamax",
-            "en":"Gigantamax Snorlax"
+            "en":"Gigantamax Snorlax",
+            "api":"snorlax-gmax"
          }
       ],
       "shiny":[
