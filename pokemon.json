@@ -1440,6 +1440,60 @@
             "fr":"Tyranocif",
             "en":"Tyranitar",
             "api":"tyranitar"
+         },
+         {
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/treecko.gif",
+            "fr":"Arcko",
+            "en":"Treecko",
+            "api":"teecko"
+         },
+         {
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/grovyle.gif",
+            "fr":"Massko",
+            "en":"Grovyle",
+            "api":"grovyle"
+         },
+         {
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/sceptile.gif",
+            "fr":"Jungko",
+            "en":"Sceptile",
+            "api":"sceptile"
+         },
+         {
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/torchic.gif",
+            "fr":"Foussifeu",
+            "en":"Torchic",
+            "api":"torchic"
+         },
+         {
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/combusken.gif",
+            "fr":"Galifeu",
+            "en":"Combusken",
+            "api":"combusken"
+         },
+         {
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/blaziken.gif",
+            "fr":"Braségali",
+            "en":"Blaziken",
+            "api":"blaziken"
+         },
+         {
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/mudkip.gif",
+            "fr":"Gobou",
+            "en":"Mudkip",
+            "api":"mudkip"
+         },
+         {
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/marshtomp.gif",
+            "fr":"Flobio",
+            "en":"Marshtomp",
+            "api":"marshtomp"
+         },
+         {
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/swampert.gif",
+            "fr":"Laggron",
+            "en":"Swampert",
+            "api":"swampert"
          }
       ],
       "alolan":[
@@ -1831,6 +1885,24 @@
             "fr":"Méga Tyranocif",
             "en":"Mega Tyranitar",
             "api":"tyranitar-mega"
+         },
+         {
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/sceptile-mega.gif",
+            "fr":"Méga Jungko",
+            "en":"Mega Sceptile",
+            "api":"sceptile-mega"
+         },
+         {
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/blaziken-mega.gif",
+            "fr":"Méga Brazégali",
+            "en":"Mega Blaziken",
+            "api":"blaziken-mega"
+         },
+         {
+            "artwork":"https://play.pokemonshowdown.com/sprites/ani/swampert-mega.gif",
+            "fr":"Méga Laggron",
+            "en":"Mega Swampert",
+            "api":"swampert-mega"
          }
       ],
       "gigamax":[
